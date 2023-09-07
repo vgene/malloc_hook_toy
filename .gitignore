@@ -1,0 +1,17 @@
+# Ignore build artifacts
+/build
+/install
+
+# Ignore local configuration
+*.env
+*.pyc
+*.pyo
+*.envrc
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
